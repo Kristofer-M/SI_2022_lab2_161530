@@ -21,4 +21,4 @@
 
 Со истите случаи како и со Every Statement можеме да поминеме низ секое ребро на Control Flow Graph-от на програмата, како што може да се види од долунаведениот Excel screenshot.
 
-![alt text](https://imgur.com/a9de0c50-f9e0-430b-9061-bb866f45122d)
+![alt text](https://i.imgur.com/8E7CNxr.png)
